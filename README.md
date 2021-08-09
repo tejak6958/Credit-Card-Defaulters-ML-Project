@@ -4,6 +4,8 @@ due to file constraint the files are upload through the google drive
 
 Google drive:- https://drive.google.com/drive/u/0/folders/1ZhqL1qAUXiJMTTmnpWgsL5RAfc9B-WpV
 
+(due to the free tier it is unable to keep the terminal file as it, to check it drop an email to tejame050@gmail.com
+
 Problem Statement:-
 Whether customer is going to default the credit card payment or not, it is necessary to bank such that it can generate much interest if  credit card  payment is done on time. It is a classification methodology whether they are defaulters or non-defaulters. Based on the forecast it will try to come up with strategics to both payers and non-payers to cope with such situation and limit it is risk taking ability. Such that with the help of this model building the bank can know the actual defaulters.
 
